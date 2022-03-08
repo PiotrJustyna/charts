@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T11:21:21.639Z" agent="5.0 (Macintosh)" etag="KNbC_rtMZtQKoXKUDqhL" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T11:22:17.693Z" agent="5.0 (Macintosh)" etag="uOsuTL4fIhc-6DUwC730" version="16.6.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="859" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,8 +21,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1970" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="400" />
-              <mxPoint x="1840" y="400" />
+              <mxPoint x="170" y="420" />
+              <mxPoint x="2110" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -199,13 +199,12 @@
         <mxCell id="fLQa5CgqU-qq7ocHvfI6-38" value="ERS ES: regular scale speed testing&#xa;" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="1720" y="80" width="140" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="fLQa5CgqU-qq7ocHvfI6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1">
+        <mxCell id="fLQa5CgqU-qq7ocHvfI6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" target="fLQa5CgqU-qq7ocHvfI6-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170.00253968253946" y="389.6858730158731" as="sourcePoint" />
             <mxPoint x="1619.25" y="389.69841269841277" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1379.75" y="390" />
-              <mxPoint x="1379.75" y="390" />
+              <mxPoint x="170" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
